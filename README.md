@@ -14,7 +14,7 @@ Hi 👋, I'm Shivam Dasauni<br>A passionate fullstack developer from India.}<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamriddler&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
-[![Image of https://github.com/Iamriddler/views-counter](https://github.com/Iamriddler/views-counter/blob/master/svg/profile/badge.svg)](https://github.com/Iamriddler/views-counter)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
