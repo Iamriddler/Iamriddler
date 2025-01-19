@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Shivam Dasauni<br>A passionate fullstack developer from India.}<br>I’m currently learning React, Typescript, Mongo, Next js<br>Ask me about MERN Stack. My life's ultimate goal is to keep building stuff with code, to continue to get better at it, and to be able to contribute to the world we live in.
+Hi 👋, I'm Shivam Dasauni<br>A passionate fullstack developer from India.<br>I’m currently learning React, Typescript, Mongo, Next js<br>Ask me about MERN Stack. My life's ultimate goal is to keep building stuff with code, to continue to get better at it, and to be able to contribute to the world we live in.
 
 
 ## 🌐 Socials:
