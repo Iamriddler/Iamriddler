@@ -1,17 +1,3 @@
-<div align="center">
-  <p align="center">
-  <img src="./assets/header.png" alt="Banner Image" width="100%"/>
-</p>
-<h1 align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F00F7&random=false&width=535&lines=%E2%9C%A8+Hi%2C+I'm+Bharat.+You+are+Welcome!+%F0%9F%8C%9F" alt="Typing SVG" />
-</h1>
-<p align="center">
-  
-  [![](https://visitcount.itsvg.in/api?id=Bharat2044&icon=5&color=5)](https://visitcount.itsvg.in)
-</p>
-</div>
-
-
 # 💫 About Me:
 Hi 👋, I'm Shivam Dasauni<br>A passionate fullstack developer from India.<br>I’m currently learning React, Typescript, Mongo, Next js<br>Ask me about MERN Stack. My life's ultimate goal is to keep building stuff with code, to continue to get better at it, and to be able to contribute to the world we live in.
 
