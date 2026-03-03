@@ -1,41 +1,29 @@
-# Project Title
+# About Me
 
-## Updated Profile Counter
+Hi! I'm a passionate developer with a love for coding and learning new technologies. I'm constantly seeking to improve my skills and work on exciting projects.
 
-- Enhanced profile counter to improve user engagement.
-- Added additional metrics to track performance.
+## Socials
 
-## Improvements
+- [LinkedIn](https://www.linkedin.com/in/iamriddler)
+- [Twitter](https://twitter.com/iamriddler)
+- [Instagram](https://www.instagram.com/iamriddler)
 
-- Improved UI for better UX.
-- Optimized code for faster load times.
-- Fixed bugs related to user tracking.
+## Tech Stack
 
-## Installation
+- **Languages:** JavaScript, Python, Java
+- **Frameworks:** React, Node.js, Django
+- **Databases:** MongoDB, PostgreSQL
+- **Tools:** Git, Docker
 
-To install the application, follow the instructions below:
+## GitHub Stats
 
-1. Clone the repository: 
-   ```bash
-   git clone https://github.com/Iamriddler/Iamriddler.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd Iamriddler
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Start the application:
-   ```bash
-   npm start
-   ```
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamriddler&show_icons=true&theme=radical)
 
-## Contributing
+## Profile Views Count
 
-If you wish to contribute, please fork the repository and create a pull request. For any issues or suggestions, please open an issue in the repository.
+![Profile views](https://komarev.com/ghpvc/?username=iamriddler)
 
-## License
+## Random Dev Quote
 
-This project is licensed under the MIT License.
+> "Code is like humor. When you have to explain it, it’s bad."  
+> – Cory House
